@@ -1,0 +1,27 @@
+h1{
+    font-size: 5cm;
+    font-weight: bold;
+    text-align: center;
+}
+.contenedor{
+    background-color: blue;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h2{
+    font-size: 25px;
+}
+p{
+    font-style: oblique;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
